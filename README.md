@@ -1,4 +1,4 @@
-# xtreme-vue2
+# Vue project example
 
 ## Project setup
 ```
